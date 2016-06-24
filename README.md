@@ -4,4 +4,4 @@ The repository is for feedback on the [Atom.io website](https://atom.io) and the
 
 For issues with the documentation from the [Atom Flight Manual](http://flight-manual.atom.io/), see [atom/flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io).
 
-![](https://github-atom-io-herokuapp-com.global.ssl.fastly.net/assets/open-source-f44fe3a70a514e2aaec10a2c34300bb5.jpg)
+![](https://cloud.githubusercontent.com/assets/69169/7661190/60a6a044-fb05-11e4-8674-bf31d9f8b66f.jpg)
