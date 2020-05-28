@@ -1,1 +1,5 @@
 
+Hello,
+
+I just downloaded latest version of atom 1.47 but while installing it the setup gets failed and tells to close the application. Please get back.
+
