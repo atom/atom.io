@@ -1,4 +1,5 @@
-# Atom.io Site Feedback
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # Atom.io Site Feedback
 
 The repository is for feedback on the [Atom.io website](https://atom.io) and the [package API](https://github.com/atom/atom/blob/master/docs/apm-rest-api.md) used by [apm](https://github.com/atom/apm). Have something to suggest or a bug to report? [Take a look at the issues on this repo](https://github.com/atom/atom.io/issues) and see if there's already a discussion going, otherwise [file a new issue](https://github.com/atom/atom.io/issues/new) and get the conversation started.
 
